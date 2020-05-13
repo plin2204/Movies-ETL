@@ -9,7 +9,7 @@ Perform ETL on several movie datasets to predict popular films for a streaming s
 •	Load data with PostgreSQL.
 
 ## Discussion
-Perform ETL steps on the Wikipedia and Kaggle data with a Python script by the following goal:
+Perform ETL steps on the Wikipedia and Kaggle data by writing a Python script.
 
 ---
 The codes are in challenge.py and movies_ETL.ipynb
