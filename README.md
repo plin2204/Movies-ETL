@@ -12,5 +12,5 @@ Perform ETL on several movie datasets to predict popular films for a streaming s
 Perform ETL steps on the Wikipedia and Kaggle data with a Python script by the following goal:
 
 ---
-The code is in challenge.py and movies_ETL.ipynb
+The codes are in challenge.py and movies_ETL.ipynb
 
