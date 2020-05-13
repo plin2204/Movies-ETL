@@ -1,5 +1,5 @@
 # Movies-ETL
-Perform **ETL (Extract, Transform, Load)** on several movie datasets to predict popular films for a streaming service.
+To predict popular films for a streaming service by performing **ETL (Extract, Transform, Load)** on several movie datasets 
 
 ## Steps
 •	Create an ETL pipeline from raw data to a **SQL** database. <br />
