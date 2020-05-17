@@ -12,5 +12,5 @@ To predict popular films for a streaming service by performing **ETL (Extract, T
 Perform ETL steps on the Wikipedia and Kaggle data by writing a *Python script*.
 
 ---
-The codes are in `challenge.py` and `movies_ETL.ipynb`
+The codes are in [`challenge.py`](https://github.com/plin2204/Movies_ETL/blob/master/challenge.py) and [`movies_ETL.ipynb`](https://github.com/plin2204/Movies_ETL/blob/master/movies_ETL.ipynb)
 
